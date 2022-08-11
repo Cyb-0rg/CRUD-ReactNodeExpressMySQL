@@ -61,5 +61,5 @@ also name , password and all neccessary details are found in the server/index.js
 
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-#� �r�e�a�c�t�-�f�o�r�m�i�k�-�v�a�l�i�d�a�t�o�r���
+
+#� �r�e�a�c�t�-�f�o�r�m�i�k�-�v�a�l�i�d�a�t�o�r���#� �r�e�a�c�t�-�f�o�r�m�i�k�-�v�a�l�i�d�a�t�o�r���
