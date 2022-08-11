@@ -32,16 +32,6 @@ also name , password and all neccessary details are found in the server/index.js
       2. `npm install`
       3. `npm run dev`
 
-> client@0.0.0 dev
-> vite
-
-
-  VITE v3.0.5  ready in 2506 ms
-
-  ➜  Local:   http://localhost:5173/
-  ➜  Network: use --host to expose
-
-
 
 ### similarly:
 
@@ -51,6 +41,16 @@ also name , password and all neccessary details are found in the server/index.js
       3. `nodemon index`
 
 
+> client@0.0.0 dev
+
+> vite
+
+
+  VITE v3.0.5  ready in 2506 ms
+
+  ➜  Local:   http://localhost:5173/ 
+  
+  ➜  Network: use --host to expose
 
 ## The form  
 
