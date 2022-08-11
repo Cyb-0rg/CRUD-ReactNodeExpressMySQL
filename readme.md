@@ -11,7 +11,7 @@
 goto server-react/bin/db.js then edit with yours
 <pre>
 
-    var connection = mysql.createConnection({
+    var db = mysql.createConnection({
         host: 'localhost',
         user: 'root',
         password: 'password',
@@ -43,18 +43,21 @@ also name , password and all neccessary details are found in the server/index.js
 
 ## The form  
 
+![image](https://user-images.githubusercontent.com/50844224/184135078-fdb32d64-d08f-4d32-b651-533624d06246.png)
 
 
 
 
 ## The list  
 
+![image](https://user-images.githubusercontent.com/50844224/184135399-aabe0057-3019-4b6c-8d1c-452e4615f5f1.png)
 
 
 
 
 ## mySQL workbench 
 
+![image](https://user-images.githubusercontent.com/50844224/184136347-1da57a20-0ecc-4d73-b78c-94d9cebfb0dd.png)
 
 
 
