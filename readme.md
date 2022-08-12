@@ -8,7 +8,7 @@
 ## mySQL server is needed to be set up before running:
 
 ### Config database
-goto server-react/bin/db.js then edit with yours
+goto server/index.js then edit with yours
 <pre>
 
     var db = mysql.createConnection({
